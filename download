@@ -1,0 +1,25 @@
+# Токен и секреты — НИКОГДА не заливать в git
+.env
+
+# Логи
+bot_log.txt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
