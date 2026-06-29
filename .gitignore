@@ -1,0 +1,14 @@
+# Токен — никогда не заливать в git!
+.env
+ 
+# Логи
+bot_log.txt
+*.log
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
